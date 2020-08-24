@@ -24,5 +24,9 @@ https://shawnagohel.github.io/scheduler/
 
 ## Screenshots
 
+https://github.com/shawnagohel/scheduler/blob/master/screenshots/Screen%20Shot%202020-08-23%20at%208.52.48%20PM.png
+
+https://github.com/shawnagohel/scheduler/blob/master/screenshots/Screen%20Shot%202020-08-23%20at%208.52.52%20PM.png
+
 
 
